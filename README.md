@@ -1,1 +1,1 @@
-# Taum-and-B-day-algo
+# Taum-and-B-day-algo This code solves the Taum and B'day problem by calculating the minimum cost to buy `b` black and `w` white gifts, considering the option to convert one type to another. The `taumBday` function chooses the cheaper option for each gift—either buying directly or converting—and multiplies by the quantity to get the total cost.
